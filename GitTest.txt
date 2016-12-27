@@ -1,7 +1,10 @@
 Welcome, git.
 
 So, here again? (Change 1)
+Bug Fix
 
 Hey, man. (Change 2)
+Bug Fix
 
 Dude, stop. (Change 3)
+Bug Fix
